@@ -17,7 +17,7 @@ async function api(){
         <div class="col-md-6 d-block mx-auto mt-5 mb-5">
         <div class="accordion rounded" id="accordionExample" style="box-shadow:0px 0px 6px #000;">
             <div class="accordion-item">
-                <h3 class="text-center">User ${user.id}</h3>
+                <h3 class="text-center pt-3">User ${user.id}</h3>
                 <h4 class="ps-3"><b>Name:</b> ${user.name}</h4>
                 <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
